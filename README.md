@@ -1,5 +1,5 @@
 # IPv4_Calc
-A Simple IPv4 VLSM Calculator Written in Python.
+A Simple and Quick IPv4 VLSM (Variable Length Subnet Mask) Calculator Written in Python.
 
 Input requires valid quad-dotted decimal IPv4 host and subnet mask addresses and outputs information about the provided input.
 
